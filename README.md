@@ -1,6 +1,18 @@
 # CalcuVJS
-A single operational Calculator, that only takes a whole number.
+A single Operator Calculator
+It has 2 modes of Interface:
+-Input Interface
+-Numpad Interface
 
-The Calculator has 2 modes of Interface:
-mode 1: typable operation
-mode 2:  numpad operation
+( Note ): This is a Personal Project ( non-academic task nor a work task )
+
+Syntaxes, Methods & Fundamentals used in this Project:
+  - functions
+  - callback eventListeners
+  - if-else statements
+  - array & object
+  - for loop
+  - join(), split(), includes(), push(), parseInt(), parseFloat()
+  - JS styling & animations
+
+more personal projects soon 👀🤠
