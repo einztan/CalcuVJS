@@ -13,6 +13,7 @@ Syntaxes, Methods & Fundamentals used in this Project:
   - array & object
   - for loop
   - join(), split(), includes(), push(), parseInt(), parseFloat()
+  - value, length
   - JS styling & animations
 
 more personal projects soon 👀🤠
